@@ -121,25 +121,19 @@ experiences:
           - Avaliação Psicológica
           - Recrutamento e Seleção
 
-# Certifications:
-#   title: Certifications
-#   list:
-#     - name: CV Builder
-#       start: 2020
-#       end: 2021
-#       organization: Microsoft
-#       credentialid: 111-222
-#       credentialurl: www.google.com
-#       credentialname: Google
-#       details: |
-#         Details about cert. Lorem ipsum dolor sit amet, consectetur
-#         adipiscing elit.
-#         Nullam eget orci purus. Nullam ultrices neque nibh.
-#         Aenean fermentum, felis vulputate suscipit accumsan,
-#         sem enim bibendum augue, sed convallis arcu lacus at dui.
-#         Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#         Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#         Praesent venenatis erat non augue suscipit consectetur.
+Certifications:
+  title: Certificações
+  list:
+    - name: Gerenciamento de Projetos
+      start: 2023
+      end: 2024
+      organization: Google
+      # credentialid: 111-222
+      # credentialurl: www.google.com
+      # credentialname: Google
+      details: |
+        O currículo do treinamento tange os fundamentos da área de Gerenciamento de Projetos como diferenças entre metodologias: Ágil, Cascata e Lean Six Sigma. 
+        Através disso, consolida os diferentes setores de uma empresa seja Startup ou Companhia e o papel do Gerente de acordo com a estrutura.
 #
 #         Second paragraph. Sed eleifend enim ante, vitae efficitur purus
 #         fringilla vel. Ut euismod, sem sed vulputate venenatis,
